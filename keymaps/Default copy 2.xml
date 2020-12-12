@@ -28,6 +28,9 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="meta #3e9" />
@@ -58,9 +61,7 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="SelectInProjectView" />
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
+  <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
   <action id="SplitHorizontally">
