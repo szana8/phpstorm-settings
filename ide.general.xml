@@ -15,6 +15,7 @@
         <entry key="LineSeparator" value="false" />
         <entry key="Position" value="false" />
         <entry key="TypeScriptInfo" value="false" />
+        <entry key="mtStatusBar" value="false" />
         <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
