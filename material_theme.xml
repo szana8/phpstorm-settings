@@ -1,7 +1,19 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="cce5ff" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="42" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="745efa47:176cec9a187:-7ffd" />
     <option name="version" value="5.5.0" />
   </component>
