@@ -5,4 +5,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="test" value="/** @test */&#10;public function $Name()&#10;{&#10; &#10;}" description="PhpUnitTest" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
