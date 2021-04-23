@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="&lt;!--" value="&lt;!-- $NAME$ --&gt;" description="Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
