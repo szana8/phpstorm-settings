@@ -22,7 +22,6 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="single-file-collections" type="PLAIN_TEXT" />
       <mapping pattern="log-dumper" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="jsonToHtml" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
